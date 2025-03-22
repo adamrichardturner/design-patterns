@@ -4,7 +4,9 @@
 
 ## What is the Singleton Design Pattern?
 
-The **Singleton Design Pattern** is a creational pattern that ensures a class has only one instance and provides a global point of access to that instance. Singleton is useful for scenarios where exactly one instance of a class is needed to coordinate actions across a system.
+The **Singleton Design Pattern** is a creational pattern that ensures a class has only one instance and provides a global point of access to that instance. 
+
+Singleton is useful for scenarios where exactly one instance of a class is needed to coordinate actions across a system.
 
 Typical use cases include configuration classes, logging, or managing shared resources such as database connections.
 
@@ -86,11 +88,17 @@ This output confirms both variables reference the same singleton instance.
 
 ## Singleton with Lazy Initialization
 
-The Singleton pattern shown above uses lazy initialization, meaning the instance is created only when first requested. This approach helps in conserving resources if the instance isn't immediately needed.
+The Singleton pattern shown above uses lazy initialization, meaning the instance is created only when first requested. 
+
+This approach helps in conserving resources if the instance isn't immediately needed.
 
 ## Thread Safety (Note)
 
-JavaScript and TypeScript run in single-threaded environments (except Web Workers). Therefore, thread safety is usually not an issue. However, in multi-threaded languages or environments, additional synchronization is needed.
+JavaScript and TypeScript run in single-threaded environments (except Web Workers). 
+
+Therefore, thread safety is usually not an issue. 
+
+However, in multi-threaded languages or environments, additional synchronization is needed.
 
 ## Advantages and Considerations
 
@@ -105,4 +113,6 @@ JavaScript and TypeScript run in single-threaded environments (except Web Worker
 
 ## Conclusion
 
-The Singleton Design Pattern provides an effective way to manage single-instance objects like configurations, logging services, or database connections. It ensures controlled and consistent access to critical shared resources, making your application easier to manage and maintain.
+The Singleton Design Pattern provides an effective way to manage single-instance objects like configurations, logging services, or database connections. 
+
+It ensures controlled and consistent access to critical shared resources, making your application easier to manage and maintain.
