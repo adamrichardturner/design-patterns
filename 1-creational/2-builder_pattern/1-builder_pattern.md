@@ -4,9 +4,13 @@
 
 ## What is the Builder Design Pattern?
 
-The **Builder Design Pattern** is a creational pattern that simplifies the construction of complex objects. It separates the construction of an object from its representation, allowing the same construction process to create different representations.
+The **Builder Design Pattern** is a creational pattern that simplifies the construction of complex objects. 
 
-This pattern is particularly useful when you have complex objects with many optional or required configurations. It improves readability and maintainability by using method chaining and clearly defined construction steps.
+It separates the construction of an object from its representation, allowing the same construction process to create different representations.
+
+This pattern is particularly useful when you have complex objects with many optional or required configurations. 
+
+It improves readability and maintainability by using method chaining and clearly defined construction steps.
 
 ## Why and When to Use the Builder Pattern?
 
