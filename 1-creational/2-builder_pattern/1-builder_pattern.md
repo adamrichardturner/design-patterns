@@ -1,6 +1,6 @@
 # Builder Design Pattern in TypeScript
 
-[« Back to Project Readme](../../../README.md)
+[« Back to Project Readme](https://github.com/adamrichardturner/design-patterns/blob/main/README.md)
 
 ## What is the Builder Design Pattern?
 
