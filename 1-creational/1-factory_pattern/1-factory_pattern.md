@@ -1,6 +1,6 @@
 # Factory Design Pattern in TypeScript
 
-[« Back to Project Readme](https://github.com/adamrichardturner/design-patterns/blob/main/README.md)
+[« Back to Project README](../../README.md)
 
 ## What is the Factory Design Pattern?
 

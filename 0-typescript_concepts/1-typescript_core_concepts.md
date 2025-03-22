@@ -1,6 +1,6 @@
 # TypeScript Fundamentals for Understanding Design Patterns
 
-[« Back to Project Readme](https://github.com/adamrichardturner/design-patterns/blob/main/README.md)
+[« Back to Project README](../README.md)
 
 This guide provides essential TypeScript concepts and features necessary to effectively understand and implement software design patterns. 
 
