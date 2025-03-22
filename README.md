@@ -8,7 +8,7 @@ This repository contains implementations and explanations of various design patt
 
 Before diving into design patterns, make sure you're familiar with core TypeScript concepts:
 
-- [TypeScript Fundamentals](./typescript/1-typescript_core_concepts.md) - Contains prerequisite TypeScript skills and concepts to help you better understand the pattern implementations.
+- [TypeScript Fundamentals](./0-typescript_concepts/1-typescript_core_concepts.md) - Contains prerequisite TypeScript skills and concepts to help you better understand the pattern implementations.
 
 ## 1. Creational Patterns
 
