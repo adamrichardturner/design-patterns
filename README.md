@@ -1,6 +1,6 @@
 # Design Patterns in TypeScript
 
-![Design Patterns Banner](banner.png)
+<img src="banner.png" width="100%" alt="Design Patterns Banner">
 
 This repository contains implementations and explanations of various design patterns organized by category. Each pattern includes detailed explanations, code examples, and practical use cases in TypeScript.
 
