@@ -4,6 +4,12 @@
 
 This repository contains implementations and explanations of various design patterns organized by category. Each pattern includes detailed explanations, code examples, and practical use cases in TypeScript.
 
+## Prerequisites
+
+Before diving into design patterns, make sure you're familiar with core TypeScript concepts:
+
+- [TypeScript Fundamentals](./typescript/1-typescript_core_concepts.md) - Contains prerequisite TypeScript skills and concepts to help you better understand the pattern implementations.
+
 ## 1. Creational Patterns
 
 Creational patterns focus on object creation mechanisms, trying to create objects in a manner suitable to the situation.
