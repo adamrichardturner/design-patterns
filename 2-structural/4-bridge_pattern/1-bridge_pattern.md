@@ -4,7 +4,9 @@
 
 ## What is the Bridge Pattern?
 
-The **Bridge Pattern** separates abstraction from implementation, allowing them to vary independently. It decouples the abstraction (interface or high-level logic) from its implementation details, improving flexibility and maintainability.
+The **Bridge Pattern** separates abstraction from implementation, allowing them to vary independently. 
+
+It decouples the abstraction (interface or high-level logic) from its implementation details, improving flexibility and maintainability.
 
 ## Why and When to Use the Bridge Pattern?
 
