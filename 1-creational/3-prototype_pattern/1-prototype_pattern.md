@@ -4,7 +4,9 @@
 
 ## What is the Prototype Design Pattern?
 
-The **Prototype Design Pattern** is a creational design pattern that involves creating new objects by copying or "cloning" an existing object (the prototype). Rather than instantiating new objects from scratch, the prototype pattern leverages duplication of pre-existing instances.
+The **Prototype Design Pattern** is a creational design pattern that involves creating new objects by copying or "cloning" an existing object (the prototype). 
+
+Rather than instantiating new objects from scratch, the prototype pattern leverages duplication of pre-existing instances.
 
 This approach is especially useful when object creation is costly or complex. By cloning existing instances, the prototype pattern significantly simplifies and optimizes object creation.
 
@@ -102,7 +104,9 @@ Footer: Invoice Footer: Company Details
 
 ## Deep vs. Shallow Cloning
 
-In the above example, we performed shallow cloning because all fields were primitive types (`string`). If your object contains references to other objects, you might need **deep cloning** to avoid shared references.
+In the above example, we performed shallow cloning because all fields were primitive types (`string`). 
+
+If your object contains references to other objects, you might need **deep cloning** to avoid shared references.
 
 ### Example of Deep Cloning
 
@@ -144,4 +148,6 @@ This prevents changes in cloned objects from affecting the original object.
 
 ## Conclusion
 
-The Prototype Design Pattern provides an efficient way to clone complex objects, simplifying their creation. By leveraging cloning, you save resources and streamline object initialization, making it an effective choice for applications with performance-sensitive object creation or frequent replication.
+The Prototype Design Pattern provides an efficient way to clone complex objects, simplifying their creation. 
+
+By leveraging cloning, you save resources and streamline object initialization, making it an effective choice for applications with performance-sensitive object creation or frequent replication.
