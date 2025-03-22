@@ -4,7 +4,9 @@
 
 ## What is the Facade Pattern?
 
-The **Facade Pattern** provides a simplified interface to a complex subsystem. It encapsulates complex interactions and exposes a straightforward API, making subsystems easier to use and understand.
+The **Facade Pattern** provides a simplified interface to a complex subsystem. 
+
+It encapsulates complex interactions and exposes a straightforward API, making subsystems easier to use and understand.
 
 ## Why and When to Use the Facade Pattern?
 
