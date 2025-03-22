@@ -1,4 +1,6 @@
-# Mediator Pattern in TypeScript
+# Mediator Design Pattern in TypeScript
+
+[« Back to Project Readme](../../../README.md)
 
 ## What is the Mediator Pattern?
 

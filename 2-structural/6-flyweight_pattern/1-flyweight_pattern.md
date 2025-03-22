@@ -1,5 +1,7 @@
 # Flyweight Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Flyweight Pattern?
 
 The **Flyweight Pattern** is used to minimize memory usage by sharing as much data as possible with similar objects. It's especially useful for applications handling many objects with shared state.

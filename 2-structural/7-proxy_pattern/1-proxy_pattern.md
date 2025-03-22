@@ -1,5 +1,7 @@
 # Proxy Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Proxy Pattern?
 
 The **Proxy Pattern** provides a placeholder for another object to control access, adding functionality such as lazy loading, access control, logging, or caching without changing the original object's implementation.

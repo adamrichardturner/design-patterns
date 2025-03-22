@@ -1,4 +1,6 @@
-# State Pattern in TypeScript
+# State Design Pattern in TypeScript
+
+[« Back to Project Readme](../../../README.md)
 
 ## What is the State Pattern?
 

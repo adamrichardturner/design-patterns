@@ -1,5 +1,7 @@
 # Composite Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Composite Pattern?
 
 The **Composite Pattern** allows you to treat individual objects and groups of objects uniformly by creating tree structures of objects. Clients can work consistently with both individual items and compositions of items.

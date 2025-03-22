@@ -1,5 +1,7 @@
 # Template Method Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Template Method Pattern?
 
 The **Template Method Pattern** defines the skeleton of an algorithm in a method, deferring some steps to subclasses. It lets subclasses redefine certain steps without altering the algorithm's structure.
