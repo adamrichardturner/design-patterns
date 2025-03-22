@@ -4,7 +4,9 @@
 
 ## What is the Decorator Pattern?
 
-The **Decorator Pattern** dynamically adds responsibilities or behaviors to objects at runtime without modifying their original structure or class definition. It promotes flexibility by allowing behaviors to be composed or layered on top of objects.
+The **Decorator Pattern** dynamically adds responsibilities or behaviors to objects at runtime without modifying their original structure or class definition. 
+
+It promotes flexibility by allowing behaviors to be composed or layered on top of objects.
 
 ## Why and When to Use the Decorator Pattern?
 
