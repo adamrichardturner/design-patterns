@@ -4,7 +4,9 @@
 
 ## What is the Abstract Factory Design Pattern?
 
-The **Abstract Factory Pattern** is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. It enables a client to use different families of objects interchangeably, ensuring that the client code remains unaware of the specific implementations it uses.
+The **Abstract Factory Pattern** is a creational design pattern that provides an interface for creating families of related or dependent objects without specifying their concrete classes. 
+
+It enables a client to use different families of objects interchangeably, ensuring that the client code remains unaware of the specific implementations it uses.
 
 The main goal is to encapsulate the creation of groups of related objects, making it easy to switch between these groups or families at runtime.
 
@@ -188,5 +190,7 @@ clientCode(new ArtDecoFurnitureFactory());
 
 ## Conclusion
 
-The Abstract Factory Design Pattern helps manage complex object creation scenarios involving multiple related objects or families. It promotes a highly modular architecture, making your codebase easier to maintain, extend, and adapt to evolving requirements.
+The Abstract Factory Design Pattern helps manage complex object creation scenarios involving multiple related objects or families. 
+
+It promotes a highly modular architecture, making your codebase easier to maintain, extend, and adapt to evolving requirements.
 
