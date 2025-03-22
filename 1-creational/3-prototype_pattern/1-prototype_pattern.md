@@ -1,5 +1,7 @@
 # Prototype Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Prototype Design Pattern?
 
 The **Prototype Design Pattern** is a creational design pattern that involves creating new objects by copying or "cloning" an existing object (the prototype). Rather than instantiating new objects from scratch, the prototype pattern leverages duplication of pre-existing instances.

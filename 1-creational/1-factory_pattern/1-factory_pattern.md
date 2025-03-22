@@ -1,5 +1,7 @@
 # Factory Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Factory Design Pattern?
 
 The **Factory Design Pattern** is a creational design pattern used to encapsulate object creation logic. Instead of directly creating an instance of a class with the `new` keyword, the factory pattern provides an interface or method to instantiate objects, allowing subclasses or helper methods to determine the specific class to instantiate.

@@ -1,5 +1,7 @@
 # Adapter Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Adapter Pattern?
 
 The **Adapter Pattern** allows incompatible interfaces to collaborate by providing a wrapper that translates requests from one interface to another. It helps integrate existing classes or modules without modifying their original code.

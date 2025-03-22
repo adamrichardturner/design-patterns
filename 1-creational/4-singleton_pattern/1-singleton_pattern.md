@@ -1,5 +1,7 @@
 # Singleton Design Pattern in TypeScript
 
+[« Back to Project Readme](../../../README.md)
+
 ## What is the Singleton Design Pattern?
 
 The **Singleton Design Pattern** is a creational pattern that ensures a class has only one instance and provides a global point of access to that instance. Singleton is useful for scenarios where exactly one instance of a class is needed to coordinate actions across a system.

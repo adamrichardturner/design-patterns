@@ -1,4 +1,6 @@
-# Visitor Pattern in TypeScript
+# Visitor Design Pattern in TypeScript
+
+[« Back to Project Readme](../../../README.md)
 
 ## What is the Visitor Pattern?
 

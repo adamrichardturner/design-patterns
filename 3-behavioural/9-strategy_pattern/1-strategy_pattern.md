@@ -1,4 +1,6 @@
-# Strategy Pattern in TypeScript
+# Strategy Design Pattern in TypeScript
+
+[« Back to Project Readme](../../../README.md)
 
 ## What is the Strategy Pattern?
 

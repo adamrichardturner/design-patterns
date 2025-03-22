@@ -1,4 +1,6 @@
-# Observer Pattern in TypeScript
+# Observer Design Pattern in TypeScript
+
+[« Back to Project Readme](../../../README.md)
 
 ## What is the Observer Pattern?
 
