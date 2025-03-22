@@ -4,7 +4,9 @@
 
 ## What is the Factory Design Pattern?
 
-The **Factory Design Pattern** is a creational design pattern used to encapsulate object creation logic. Instead of directly creating an instance of a class with the `new` keyword, the factory pattern provides an interface or method to instantiate objects, allowing subclasses or helper methods to determine the specific class to instantiate.
+The **Factory Design Pattern** is a creational design pattern used to encapsulate object creation logic. 
+
+Instead of directly creating an instance of a class with the `new` keyword, the factory pattern provides an interface or method to instantiate objects, allowing subclasses or helper methods to determine the specific class to instantiate.
 
 This pattern is beneficial when the exact class of an object cannot be determined until runtime or when you want to separate and centralize object creation logic from the rest of your code.
 
@@ -55,7 +57,9 @@ class BitcoinPayment implements PaymentMethod {
 ```
 
 **Explanation**:  
-We have an interface `PaymentMethod` with a method `pay(amount: number)`. Each concrete class (`CreditCardPayment`, `PayPalPayment`, and `BitcoinPayment`) implements this interface and provides its own version of the `pay` method.
+We have an interface `PaymentMethod` with a method `pay(amount: number)`. 
+
+Each concrete class (`CreditCardPayment`, `PayPalPayment`, and `BitcoinPayment`) implements this interface and provides its own version of the `pay` method.
 
 ### Implementing the Factory
 
@@ -81,7 +85,9 @@ class PaymentFactory {
 ```
 
 **Explanation**:  
-The `PaymentFactory` class has a static method `createPaymentMethod` that accepts a type parameter and returns an instance of the corresponding class. This centralizes the logic for creating payment method instances.
+The `PaymentFactory` class has a static method `createPaymentMethod` that accepts a type parameter and returns an instance of the corresponding class. 
+
+This centralizes the logic for creating payment method instances.
 
 ### Using the Factory
 
